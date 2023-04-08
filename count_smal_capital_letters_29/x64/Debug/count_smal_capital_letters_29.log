@@ -1,0 +1,3 @@
+﻿  count_smal_capital_letters_29.cpp
+C:\Users\Hp\source\repos\count_smal_capital_letters_29\count_smal_capital_letters_29.cpp(25,27): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  count_smal_capital_letters_29.vcxproj -> C:\Users\Hp\source\repos\count_smal_capital_letters_29\x64\Debug\count_smal_capital_letters_29.exe
