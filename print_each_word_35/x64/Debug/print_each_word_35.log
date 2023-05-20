@@ -1,0 +1,4 @@
+﻿  print_each_word_35.cpp
+C:\Users\Hp\source\repos\print_each_word_35\print_each_word_35.cpp(22,23): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\print_each_word_35\print_each_word_35.cpp(45,26): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  print_each_word_35.vcxproj -> C:\Users\Hp\source\repos\print_each_word_35\x64\Debug\print_each_word_35.exe
