@@ -1,0 +1,4 @@
+﻿  delete_client_by_account_num_50.cpp
+C:\Users\Hp\source\repos\delete_client_by_account_num_50\delete_client_by_account_num_50.cpp(29,34): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\delete_client_by_account_num_50\delete_client_by_account_num_50.cpp(210): warning C4715: 'DeleteClientByAccountNumber': not all control paths return a value
+  delete_client_by_account_num_50.vcxproj -> C:\Users\Hp\source\repos\delete_client_by_account_num_50\x64\Debug\delete_client_by_account_num_50.exe
