@@ -1,0 +1,4 @@
+﻿  find_client_by_account_number_49.cpp
+C:\Users\Hp\source\repos\find_client_by_account_number_49\find_client_by_account_number_49.cpp(25,35): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\find_client_by_account_number_49\find_client_by_account_number_49.cpp(62,26): warning C4834: discarding return value of function with 'nodiscard' attribute
+  find_client_by_account_number_49.vcxproj -> C:\Users\Hp\source\repos\find_client_by_account_number_49\x64\Debug\find_client_by_account_number_49.exe

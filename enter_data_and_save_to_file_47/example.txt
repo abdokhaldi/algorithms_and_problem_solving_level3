@@ -1,0 +1,7 @@
+the account number is : 5765
+the pin code is  : hhgh
+the name is : fhhf
+the phone number is : 74775
+account balance is : 50000
+
+
