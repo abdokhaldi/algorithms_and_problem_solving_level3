@@ -1,0 +1,5 @@
+﻿  bank_project_solution_1.cpp
+C:\Users\Hp\source\repos\bank_project_solution_1\bank_project_solution_1.cpp(30,33): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_project_solution_1\bank_project_solution_1.cpp(358): warning C4715: 'DeleteClientByAccountNumber': not all control paths return a value
+C:\Users\Hp\source\repos\bank_project_solution_1\bank_project_solution_1.cpp(395): warning C4715: 'UpdateClientByAccountNumber': not all control paths return a value
+  bank_project_solution_1.vcxproj -> C:\Users\Hp\source\repos\bank_project_solution_1\x64\Debug\bank_project_solution_1.exe

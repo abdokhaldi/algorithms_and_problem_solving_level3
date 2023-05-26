@@ -1,0 +1,4 @@
+﻿  bank_project_1-2.cpp
+C:\Users\Hp\source\repos\bank_project_1-2\bank_project_1-2.cpp(439): warning C4715: 'DeleteClientByAccountNumber': not all control paths return a value
+C:\Users\Hp\source\repos\bank_project_1-2\bank_project_1-2.cpp(406): warning C4715: 'UpdateClientByAccountNumber': not all control paths return a value
+  bank_project_1-2.vcxproj -> C:\Users\Hp\source\repos\bank_project_1-2\x64\Debug\bank_project_1-2.exe
