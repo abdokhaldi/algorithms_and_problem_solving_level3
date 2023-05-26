@@ -1,0 +1,4 @@
+﻿  read_dataFile_to_table_48.cpp
+C:\Users\Hp\source\repos\read_dataFile_to_table_48\read_dataFile_to_table_48.cpp(111,34): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\read_dataFile_to_table_48\read_dataFile_to_table_48.cpp(150,26): warning C4834: discarding return value of function with 'nodiscard' attribute
+  read_dataFile_to_table_48.vcxproj -> C:\Users\Hp\source\repos\read_dataFile_to_table_48\x64\Debug\read_dataFile_to_table_48.exe

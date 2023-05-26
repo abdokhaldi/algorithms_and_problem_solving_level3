@@ -1,0 +1,4 @@
+﻿  update_client_by_account_number_51.cpp
+C:\Users\Hp\source\repos\update_client_by_account_number_51\update_client_by_account_number_51.cpp(29,34): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\update_client_by_account_number_51\update_client_by_account_number_51.cpp(219): warning C4715: 'UpdateClientByAccountNumber': not all control paths return a value
+  update_client_by_account_number_51.vcxproj -> C:\Users\Hp\source\repos\update_client_by_account_number_51\x64\Debug\update_client_by_account_number_51.exe
